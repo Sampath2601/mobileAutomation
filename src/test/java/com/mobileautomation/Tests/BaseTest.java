@@ -1,4 +1,4 @@
-package com.mobileautomation.Base.Tests;
+package com.mobileautomation.Tests;
 
 import com.mobileautomation.base.AppiumController;
 import com.mobileautomation.screens.HomeScreen;
