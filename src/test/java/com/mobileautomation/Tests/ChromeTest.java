@@ -1,4 +1,4 @@
-package com.mobileautomation.Base.Tests;
+package com.mobileautomation.Tests;
 
 import com.mobileautomation.screens.HomeScreen;
 import org.testng.annotations.Test;
